@@ -1,0 +1,32 @@
+
+
+body {
+
+	font-family: 'Helvetica';
+}
+
+#container{
+margin: 20px auto;
+padding: 20px;
+background:#e5e5e5;
+
+}
+
+#content-below {
+	Margin:20px auto;
+  padding: 10px;
+  background: blue;
+}
+#Personal-Profile{
+	padding: 10px;
+	margin: 10px;
+	float: right;
+	color:#ff5;
+}
+
+
+.float{
+background: blue;
+height:300px;
+
+}
