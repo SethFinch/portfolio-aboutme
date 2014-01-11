@@ -6,24 +6,28 @@ body {
 }
 
 #container{
-margin: 20px auto;
-padding: 20px;
+margin: 5px auto;
+padding: 40px;
+height: 10px;
 background:#e5e5e5;
 
 }
 
-#content-below {
-	Margin:20px auto;
+/*#content-below {
+	Margin: 0px auto;
   padding: 10px;
   background: blue;
-}
+}*/
 #Personal-Profile{
 	padding: 10px;
 	margin: 10px;
 	float: right;
 	color:#ff5;
 }
-
+ #profile-head{
+ 	font-size: 80px;
+ 	float:left;
+ }
 
 .float{
 background: blue;
