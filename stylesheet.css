@@ -1,9 +1,14 @@
 
 
-body {
+ body {
+			background-image:url('http://i.huffpost.com/gen/796073/thumbs/o-MEN-AT-LUNCH-facebook.jpg');
+			background-size: 100%;
+			
+			background-repeat:no-repeat;
 
-	font-family: 'Helvetica';
-}
+			font-family: 'Trebuchet MS';
+
+		}
 
 /*#container{
 margin: 5px auto;
@@ -18,13 +23,15 @@ background:#e5e5e5;
   padding: 10px;
   background: blue;
 }*/
-#Personal-Profile{
+
+
+.Personal-Profile{
 	padding: 10px;
 	margin: 10px;
 	float: right;
-	color:#ff5;
+	color:#ded887;
 }
- #profile-head{
+ .profile-head{
  
  	
  }
